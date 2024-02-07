@@ -1,2 +1,19 @@
+.moviePic{
+	width: 400px;
+	height: 400px;
+	opacity: 10px;
+	
+}
 
-/* Your CSS Code here. */
+.movieDetail{
+	position: relative;
+	top: 10px;
+	width: 400px;
+	text-align: center;
+	font-size: 20px;
+}
+
+.page{
+	width: 600px;
+	height: 1000px;
+}
